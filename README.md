@@ -1,2 +1,4 @@
-# College
-This is a collection of my first semester college code that is functional... more complex stuff will not be posted here.
+# College Code
+- Some of my first semester code thats functional, or I felt like sharing for others to start their Java / CS journey.
+
+- Some of this code is not fully functional as it was a prototype before my assignment submission! Please check bottom of source code(s) for notes.
