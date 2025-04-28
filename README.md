@@ -3,4 +3,4 @@
 
 - Some of this code is not fully functional as it was a prototype before my assignment submission! Please check bottom of source code(s) for notes.
 
-- I will be uploading this semesters code (all of it) on July 21st.
+- This is not nearly all of the code, but rather intro stuff (first 2 weeks).
